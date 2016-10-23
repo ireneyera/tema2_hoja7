@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">tema2_hoja7</string>
+    <string name="action_settings">Settings</string>
+    <string name="ejercicio1">Ejercicio 1</string>
+    <string name="welcomeText">Elige una opción del menú superior</string>
+    <string name="ejercicio2">Ejercicio 2</string>
+    <string name="ejercicio3">Ejercicio 3</string>
+    <string name="ejercicio4">Ejercicio 4</string>
+    <string name="ejercicio5">Ejercicio 5</string>
+    <string name="ejercicio6">Ejercicio 6</string>
+    <string name="ejercicio7">Ejercicio 7</string>
+</resources>
